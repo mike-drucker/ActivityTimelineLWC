@@ -142,7 +142,7 @@
       <parentFlexiPage>flexipage__default_rec_L</parentFlexiPage>
 
 
-      <sobjectType>Timeline_Configuration__c</sobjectType>
+      <sobjectType>timeline__Timeline_Configuration__c</sobjectType>
       <template>
         <name>flexipage:recordHomeTemplateDesktop</name>
 
