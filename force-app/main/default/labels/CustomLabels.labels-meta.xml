@@ -208,4 +208,28 @@
         <shortDescription>sent an email to</shortDescription>
         <value>sent an email to</value>
     </labels>
+    	<labels>
+        <fullName>All_Types</fullName>
+        <categories>Activity Timeline</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>All Types</shortDescription>
+        <value>All Types</value>
+   </labels>
+   <labels>
+        <fullName>Upcoming</fullName>
+        <categories>Activity Timeline</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Upcoming &amp; Overdue</shortDescription>
+        <value>Upcoming &amp; Overdue</value>
+    </labels>
+	<labels>
+        <fullName>Filters</fullName>
+        <categories>Activity Timeline</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Filters</shortDescription>
+        <value>Filters</value>
+    </labels>
 </CustomLabels>
